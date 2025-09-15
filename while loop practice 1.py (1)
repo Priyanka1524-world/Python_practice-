@@ -1,0 +1,22 @@
+capacity=5
+filled=0
+while filled<capacity:
+    
+    print("step:",filled,"liter filled")
+    filled+=1
+    
+print("bottle is full!")
+
+
+
+
+        
+     
+
+    
+   
+    
+
+        
+            
+           
